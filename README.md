@@ -17,9 +17,8 @@ Designed to support healthcare administrators and finance teams, this dashboard 
 
 ##  Files Included
 
-- `Sales_Analysis.pbix` – Power BI report file with complete visuals and imported data
-- `Sales_Analysis.pbit` – Power BI template file (optional, without data)
-- `Dashboard_Screenshot.png` – A preview of the dashboard
+- `HealthCareDataDash.pbix` – Power BI report file with complete visuals and data
+- `Screenshot.png` – A preview of the dashboard
 
 ##  Dashboard_Screenshot
 <img width="800" alt="Dashboard" src="https://github.com/shince455/Hospital-Data-Dashboard-PowerBI/blob/main/Screenshot.jpg" />
